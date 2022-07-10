@@ -1,0 +1,18 @@
+morango
+brocolis
+palmito
+tomatearroz
+feijao
+azeite
+de
+oliva
+\n arroz
+feijao
+azeite
+de
+oliva
+arroz
+feijao
+azeitedeolivaarroz
+feijao
+azeite de oliva
